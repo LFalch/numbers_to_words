@@ -1,0 +1,5 @@
+[package]
+name = "numbers_to_words"
+version = "0.1.0"
+authors = ["LFalch <lucas@wasd.dk>"]
+edition = "2018"
